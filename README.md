@@ -9,5 +9,5 @@ This is a [Next.js](https://nextjs.org/) blog-site frontend styled with [Tailwin
 
 You're good to go!!
 
-## Headless CMS
+## Headless CMS (Sanity, Contentful etc)
 Connect with your Headless CMS (tested with sanity.io)
